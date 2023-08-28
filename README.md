@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LuizBlume&theme=algolia&show_icons=true)](https://github.com/LuizBlume)
+[![Top Langs](https://github.com/LuizBlume/LuizBlume/edit/main/README.md&theme=algolia&show_icons=true)](https://github.com/LuizBlume)
