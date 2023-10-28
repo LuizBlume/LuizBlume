@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBlume&bg_color=30,22A7F0,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/LuizBlume">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
 </a>
 <br>
 <br>
