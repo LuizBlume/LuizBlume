@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6A00C9&text=Welcome&animation=twinkling&reversal=false&textBg=false&fontColor=WHITE&fontSize=60&fontAlignY=35"/>
 <h2 align="center" style="color: #e83d84;">Welcome! Get to know a little about me.</h2>
 <div>
   
@@ -42,4 +42,4 @@
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6A00C9&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
