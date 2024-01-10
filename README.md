@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6A00C9&text=Welcome&animation=twinkling&reversal=false&textBg=false&fontColor=WHITE&fontSize=60&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&text=Welcome&animation=twinkling&reversal=false&textBg=false&fontColor=ffffff&fontSize=60&fontAlignY=35&section=header"/>
 <h2 align="center" style="color: #e83d84;">Welcome! Get to know a little about me.</h2>
 <div>
   
@@ -13,8 +13,7 @@
 <a href="https://github.com/LuizBlume">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
 </a>
-<br>
-<br>
+</div>
 
 <div align="center">
   <h2>Technologies Front-end</h2>
@@ -42,4 +41,4 @@
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6A00C9&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
