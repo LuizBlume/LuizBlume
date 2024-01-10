@@ -2,13 +2,13 @@
 <h2 align="center" style="color: #e83d84;">Welcome! Get to know a little about me.</h2>
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiz+Fernando+Blume+Jacinto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00736E&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Luiz+Fernando+Blume+Jacinto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
   <a href="https://github.com/LuizBlume">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBlume&bg_color=30,22A7F0,904e95&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBlume&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/LuizBlume">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
@@ -41,4 +41,4 @@
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
