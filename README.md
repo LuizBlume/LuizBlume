@@ -23,7 +23,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img width="8" />
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="BootStrap logo" />
+  <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="45" height="40">
   <img width="8" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <img width="8" />
