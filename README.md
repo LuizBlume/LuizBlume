@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&text=Welcome&animation=twinkling&reversal=false&textBg=false&fontColor=ffffff&fontSize=60&fontAlignY=35&section=header"/>
+
 <h2 align="center" style="color: #e83d84;">Get to know a little about me.</h2>
 <div>
   
@@ -41,4 +41,4 @@
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00C9,%20100:00736E&animation=twinkling&reversal=false&textBg=false&fontSize=60&fontAlignY=35&section=footer"/>
+
