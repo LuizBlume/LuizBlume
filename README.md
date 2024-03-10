@@ -29,7 +29,6 @@
   <img width="8" />
   <img width="40" src="https://camo.githubusercontent.com/da79029ef5a44898077dfc91f19f8dff0546d76082556d5f22a4e209d8e5d90b/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" alt="Sass logo" height="40">
   <img width="8" />
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?short_path=9ba319e" height="40" />
   <h2>Technologies Back-end</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <img width="8" />
