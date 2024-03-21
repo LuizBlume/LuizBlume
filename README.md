@@ -22,8 +22,12 @@
   <img width="8" />
   <img width="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" height="40">
   <img width="8" />
-  <img width="40" src="https://camo.githubusercontent.com/da79029ef5a44898077dfc91f19f8dff0546d76082556d5f22a4e209d8e5d90b/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" alt="Sass logo" height="40">
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass logo" height="40">
   <img width="8" />
+ <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React logo" height="40">
+  <img width="8" />
+ <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma logo" height="40">
+   <img width="8" />
   <h2>Technologies Back-end</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="40" alt="python logo"  />
   <img width="8" />
@@ -31,6 +35,13 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
   <img width="8"/>
+  <h2>Operating System</h2>
+ <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" width="40" alt="Windows logo"  />
+  <img width="8" />
+ <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="40" width="40" alt="Linux logo"  />
+  <img width="8" />
+ <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" width="40" alt="Ubuntu logo"  />
+  <img width="8" />
 </div>
 <div align="center">
  
