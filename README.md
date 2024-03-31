@@ -4,9 +4,7 @@
   <a href="https://github.com/LuizBlume">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
   </a>
-  <a href="https://github.com/LuizBlume">
-    <img width="300" height="200" src="https://wakatime.com/share/@LuizBlume/3c4ae149-8d9c-4dd5-b011-10a34431b94f.png" />
-  </a>
+ <a href="https://wakatime.com"><img width="300" height="200" src="https://wakatime.com/share/@LuizBlume/3c4ae149-8d9c-4dd5-b011-10a34431b94f.png" /></a>
 </div>
 
 <div align="center">
