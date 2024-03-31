@@ -2,9 +2,6 @@
 <h2 align="center" style="color: #e83d84;">Get to know a little about me.</h2>
 
 <div align="center">
-  <a href="https://github.com/LuizBlume">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBlume&bg_color=30,6A00C9,00736E&title_color=fff&text_color=fff" />
-</a>
 <a href="https://github.com/LuizBlume">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=donut&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be)](https://github.com/LuizBlume"/ >
 </a>
@@ -35,6 +32,8 @@
   <img width="9" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="50" />
   <img width="9"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img width=9 />
   <h2>Operating System</h2>
  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" width="40" alt="Windows logo"  />
   <img width="9" />
