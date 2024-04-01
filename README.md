@@ -2,8 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/LuizBlume">
-    <img height="200" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
+    <img height="260" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
   </a>
+    <figure><img width="345" src="https://wakatime.com/share/@LuizBlume/f3899bc3-f52e-4ad1-a1a0-960a5704ee7e.svg"></figure>
+
 </div>
 
 
