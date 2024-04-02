@@ -34,13 +34,12 @@
   <img width="9"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img width=9 />
-  <h2>Operating System</h2>
+  <h2>Others Knowledges</h2>
  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" height="40" width="40" alt="Windows logo"  />
-  <img width="9" />
- <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="40" width="40" alt="Linux logo"  />
   <img width="9" />
  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" width="40" alt="Ubuntu logo"  />
   <img width="9" />
+ <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" width="40" alt="VSCode logo" />
 </div>
 <div align="center">
  
