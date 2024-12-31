@@ -39,7 +39,7 @@
 </div>
 <div align="center">
  
-<p>Visit Counter</p>
+<h3>Visit Counter</h3>
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
