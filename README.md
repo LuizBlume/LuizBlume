@@ -39,7 +39,7 @@
 </div>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/LuizBlume)
+
 <p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
 
 </div>
