@@ -25,6 +25,8 @@
   <img width="9" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
   <img width="9"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.png" alt="django" width="50" height="50" />
+  <img width="9"/>
   <h2>Others Knowledges</h2>
   <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" height="40" width="40" alt="Ubuntu logo"  />
   <img width="9" />
