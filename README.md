@@ -39,10 +39,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" height="40" alt="Unity logo" />
   <img width="9" />
 </div>
-<div align="center">
-<p></p>
-<p></p>
-<p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
-
+<div align="center" />
 </div>
 
