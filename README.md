@@ -1,6 +1,6 @@
  <h2 align="center" style="color: #e83d84;">Get to know a little about me.</h2>
 <div align="justify">
-   <span>I am a web developer with experience in Vue 3, React, Sass, HTML, and JavaScript, focused on creating modern, responsive, and dynamic interfaces. I have skills in applying UI/UX best practices, as well as integrating APIs and developing applications with a Django backend. I enjoy working with animations, interactivity, and refined design, always aiming to deliver efficient and visually appealing solutions. I value organization, clean code, and continuous improvement. I'm constantly exploring new technologies to enhance my projects and deliver real value to users.</span>
+   <span>I am a web developer with experience in Vue 3, Sass, HTML, and JavaScript, focused on creating modern, responsive, and dynamic interfaces. I have skills in applying UI/UX best practices, as well as integrating APIs and developing applications with a Django backend. I enjoy working with animations, interactivity, and refined design, always aiming to deliver efficient and visually appealing solutions. I value organization, clean code, and continuous improvement. I'm constantly exploring new technologies to enhance my projects and deliver real value to users.</span>
 </div>
 <h2></h2>
 <div align="center">
